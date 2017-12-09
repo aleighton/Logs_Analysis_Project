@@ -1,3 +1,11 @@
+STEPS for running ANALYSIS
+1.load newsdata.sql (this is under the assumption that marker has already done this and created the tables/relations)
+2.Create VIEWS
+3.Run python script queries.py as "python3 queries.py"
+4.Analysis output will appear as plain text in Terminal
+
+
+
 Listed below are the VIEWs required for the LOGS ANALYSIS PROJECT
 
 1.Creates an aggregated table of total views for each article,
